@@ -1,7 +1,3 @@
-# INF360 - Programming in Python
-# Megan Leavens
-# Final Project
-
 """Horoscope reader. This program asks the user for their birth month and birth day.
 Based on the users answer, it tells them what their zodiac sign is.
 The program then uses this information to gather their personalized
