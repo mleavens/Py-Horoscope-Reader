@@ -1,2 +1,2 @@
-# Py-Horoscope-Reader
-Python horoscope reader program made in Intro to Python
+# Python-Horoscope-Reader
+Horoscope & astrology program written in Python. 
